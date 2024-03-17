@@ -1,0 +1,4 @@
+-- create table if not exist book_job_buckets (
+--   book_id bigint references books(id),
+--   bucket text not null
+-- );
